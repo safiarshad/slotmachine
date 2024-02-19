@@ -116,12 +116,6 @@ def get_bet():
             print("Please enter a number!")
 
     return bet
-
-
-
-    
-
-
     
 
 def spin(balance):
